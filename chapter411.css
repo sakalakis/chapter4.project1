@@ -1,0 +1,17 @@
+div {
+    
+    padding: 10px;
+    margin-left: 600px;
+    width: 50px;
+}
+p {
+    color: rgb(0, 0, 0)
+}
+form {
+    padding: 10px;
+    margin-left: 500px;
+    margin-top: 300px;
+    margin-bottom: 1px;
+    width: 450px;
+    background-color: rgb(167, 121, 79);
+}
